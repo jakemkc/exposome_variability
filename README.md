@@ -27,7 +27,7 @@ In a cohort comprising 501 couples trying for pregnancy, we measured 128 (13 che
 
 ## Getting Started
 - This github repository analytical materials for characterzing the correlations in 501 subjects recruited in the LIFE Study.
-- Code for data clean-up, processing and analysis can be found on [Github](https://github.com/jakemkc/exposome_variability)
+- Code for data clean-up, processing, analysis, and visulization can be found on [Github](https://github.com/jakemkc/exposome_variability)
 - Main findings of our study can be found [here](http://)
 - Preprint paper can be downloaded from [BioRxiv](http://)
 - Please contact us for further information, thank you.
