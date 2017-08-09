@@ -13,7 +13,7 @@
   - email: louisg[at]mail[dot]nih[dot]gov
 - Chirag J. Patel
   - github: [\@chiragjp](http://github.com/chiragjp)
-  - web: [www.chiragjpgroup.org](www.chiragjpgroup.org)
+  - web: [www.chiragjpgroup.org](http://www.chiragjpgroup.org)
   
 ## Abstract
 ### *BACKGROUND*
