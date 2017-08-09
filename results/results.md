@@ -42,11 +42,11 @@ Figure 4. Boxplots of Spearman’s rank correlations (rs) within different chemi
 
 ## S Figure 1
 
- ![SF1A](figures/heatmap_A.jpg)
+ ![SF1A](figures/heatmap_A.png)
  
- ![SF1B](figures/heatmap_B.jpg)
+ ![SF1B](figures/heatmap_B.png)
  
- ![SF1C](figures/heatmap_C.jpg)
+ ![SF1C](figures/heatmap_C.png)
 
 Figure S1. Correlation heat maps showing the Spearman’s rank correlations (rs) across 128 chemicals grouped in 13 different classes. A) Females; B) Males; and C) Couples. Of each heat map, color key on the top left denotes color intensity of correlation values and is superimposed with an outline of a histogram. The corresponding colors of chemical classes are shown on the left. Observed larger “cluster” across groups are annotated with hollow red squares. 
 
