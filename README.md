@@ -10,8 +10,8 @@ You can provide one sample or two samples (e.g., twins, couples) as the input.
 
 ### Instruction
 For MacOS:
-1. Download the fake correlation matrix file (fakeData.Rdata), which contains two samples as used in the paper, and put it into the "Downloads" folder
-2. Download the function script (chord_function.R), and put it into the "Downloads" folder
+1. Download the fake correlation matrix file (fakeData.Rdata), which contains two samples as used in the paper, and save it into the "Downloads" folder
+2. Download the function script (chord_function.R), and save it into the "Downloads" folder
 3. Download the example script, and run in Rstudio (example_1_sample.R or example_2_samples.R)
 4. You can see the globe figure in Rstudio, and a pdf copy will also be saved to your "Downloads" folder
 5. You can edit the pdf in any vector graphic editor (e.g., Inkscape) to fine tune different aspects of the figure
