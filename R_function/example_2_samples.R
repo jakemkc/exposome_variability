@@ -5,6 +5,26 @@ cat("\014")
 
 library(circlize)
 
+
+## Notes on using your own data to generate exposome globe
+#' 1) correlation matrix
+#' ¥ou can generate correlation matrix using cor() function, e.g., cor(mtcars).
+#' If you have 2 samples and the data is stored in the dataframe "sample1" and "sample2", you can run cor(sample1, sample2)
+#' "sample1" and "sample2" need to have the same number of variables
+#' 
+#' 2) name list
+#' variables are grouped in the name list
+#' You can define your own group name in the list, and it will be shown in the figure
+#' However, the variable names in each group must be the same as those used in corrleion matrix
+#' Names and variables are shown in the figure according to the order of the names and elements in the list
+#' 
+#' 3) color of the track
+#' The number of colors in the "trackColorList" is the same as the number of the groups
+#' You can generate a set of colors easily at https://medialab.github.io/iwanthue/
+#' simply providing the number of colors wanted in the color palette and click "make a palette"
+## --------------------------------
+
+
 ## LOAD function
 source("~/Downloads/chord_function.R")
 
