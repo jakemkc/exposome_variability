@@ -7,5 +7,5 @@ Files for the wrapper R function
 
 
 ### 2-sample globe
-e.g., males vs females in a family
+e.g., males vs females (left vs right) in a family
 <img src="https://github.com/jakemkc/exposome_variability/blob/master/R_function/chord_2_samples.png">
